@@ -66,9 +66,3 @@ This project aims to keep track of Binance's delisting schedule through its API 
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project!
-
----
-
-## License
-
-This project is licensed under the MIT License.
